@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "587497877286",
+    "project_id": "feesapp-97795",
+    "storage_bucket": "feesapp-97795.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587497877286:android:d56d9c7785efaaadd01be7",
+        "android_client_info": {
+          "package_name": "com.example.fms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "587497877286-h787n8arn2eirjsfi0b1983c6pvo3g74.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAD47EhKW9xiJNmhqfQgG8G8Ssgm9n03k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "587497877286-h787n8arn2eirjsfi0b1983c6pvo3g74.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
